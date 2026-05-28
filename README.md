@@ -88,4 +88,14 @@ docker compose down
 
 ## Screenshots
 
+### Frontend
+![Frontend](screenshots/frontend-ui.png)
 
+### Docker Compose
+![Docker Compose](screenshots/docker-compose.png)
+
+### Reverse Proxy
+![Reverse Proxy](screenshots/reverse-proxy.png)
+
+### Backend API
+![Backend API](screenshots/backend-api-working.png)
